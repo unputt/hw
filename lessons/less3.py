@@ -9,6 +9,8 @@ class Cat:
         return f'{self.name}'
 
 
+
+
 class POint:
     def __init__(self, *args):
         self.a = args
