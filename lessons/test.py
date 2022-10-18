@@ -2,7 +2,7 @@ import likbez
 from likbez import user
 
 import colorama
-import home.homewr1
+import home.hw2
 
 # likbez.user('Sara')
 print(colorama.Back.MAGENTA,
